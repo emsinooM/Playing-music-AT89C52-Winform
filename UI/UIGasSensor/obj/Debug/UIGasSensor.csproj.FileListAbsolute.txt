@@ -1,0 +1,430 @@
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.exe.config
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.exe
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.pdb
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.Form1.resources
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.exe
+C:\Users\ADMIN\Desktop\ProjectKienTruc\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.pdb
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.exe.config
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.exe
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.pdb
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.SuggestedBindingRedirects.cache
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.Form1.resources
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.Properties.Resources.resources
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.exe
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.pdb
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\RestSharp.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Buffers.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.CodeDom.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.IO.Ports.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Memory.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.exe.licenses
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+D:\TIEU_LUAN_KTMT\Code C#\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.exe.config
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.exe
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\UIGasSensor.pdb
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\RestSharp.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Buffers.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.CodeDom.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.IO.Ports.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Memory.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.Form1.resources
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.Properties.Resources.resources
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.exe.licenses
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.exe
+C:\Users\phamnhat\Desktop\kien truc\Code C#\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.pdb
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\UI.exe.config
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\UI.exe
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\UI.pdb
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\RestSharp.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Buffers.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.CodeDom.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.IO.Ports.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Memory.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UI.Form1.resources
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UI.Properties.Resources.resources
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UI.exe.licenses
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UI.exe
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UIGasSensor\UIGasSensor\UIGasSensor\obj\Debug\UI.pdb
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\UI.exe.config
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\UI.exe
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\UI.pdb
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\RestSharp.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Buffers.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.CodeDom.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.IO.Ports.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Memory.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UI.Form1.resources
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UI.Properties.Resources.resources
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UI.exe.licenses
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UI.exe
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\UI\UI\UIGasSensor\obj\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\UI.exe.config
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\RestSharp.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Buffers.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.CodeDom.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.IO.Ports.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Memory.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UI.Form1.resources
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UI.Properties.Resources.resources
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UI.exe.licenses
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\py_music\new\UI\UI\UIGasSensor\obj\Debug\UI.pdb
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\UI.exe.config
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\UI.exe
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\UI.pdb
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\RestSharp.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Buffers.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.CodeDom.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.IO.Ports.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Memory.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UI.Form1.resources
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UI.Properties.Resources.resources
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UI.exe.licenses
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UI.exe
+C:\Users\phamnhat\Desktop\tt_Kien_truc\cuoi ki\reload\UI\UI\UI\UIGasSensor\obj\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\UI.exe.config
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\RestSharp.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Buffers.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.CodeDom.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.IO.Ports.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Memory.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UI.Form1.resources
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UI.Properties.Resources.resources
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UI.exe.licenses
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\py_music\new\new3\UI\UI\UI\UIGasSensor\obj\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\UI.exe.config
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\RestSharp.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Buffers.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.CodeDom.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.IO.Ports.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Memory.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.Form1.resources
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.Properties.Resources.resources
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.exe.licenses
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\py_music\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\UI.exe.config
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\UI.pdb
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\Newtonsoft.Json.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\RestSharp.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Buffers.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.CodeDom.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Data.Odbc.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Data.OleDb.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Data.SqlClient.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Drawing.Common.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.IO.Packaging.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.IO.Ports.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Memory.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Permissions.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Security.Principal.Windows.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\bin\Debug\System.Threading.AccessControl.xml
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.AssemblyReference.cache
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.Form1.resources
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.Properties.Resources.resources
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.GenerateResource.cache
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.exe.licenses
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CoreCompileInputs.cache
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.Fody.CopyLocal.cache
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UIGasSensor.csproj.CopyComplete
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.exe
+D:\Study\STUdied\Kien truc may tinh\CUOI_Ky_Thuc_Tap\CUOI_KY\UI\UIGasSensor\obj\Debug\UI.pdb

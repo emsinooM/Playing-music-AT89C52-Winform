@@ -1,0 +1,32 @@
+pitch_F6, eighthN
+pitch_E6, eighthN
+pitch_D6, eighthN
+pitch_C6, eighthN
+pitch_A5, qtrN
+pitch_A5, eighthN
+pitch_C6, eighthN
+pitch_F6, eighthN
+pitch_E6, eighthN
+pitch_D6, eighthN
+pitch_Eb6, eighthN
+pitch_E6, qtrN
+pitch_E6, eighthN
+pitch_E6, eighthN
+pitch_E6, eighthN
+pitch_C6, eighthN
+pitch_D6, eighthN
+pitch_C6, eighthN
+pitch_E6, eighthN
+pitch_C6, eighthN
+pitch_D6, eighthN
+pitch_C6, eighthN
+pitch_A5, eighthN
+pitch_C6, eighthN
+pitch_G5, eighthN
+pitch_Bb5, eighthN
+pitch_A5, eighthN
+pitch_F5, eighthN
+pitch_P, wholeN
+
+
+

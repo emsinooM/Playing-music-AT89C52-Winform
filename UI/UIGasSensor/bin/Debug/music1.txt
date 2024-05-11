@@ -1,0 +1,8 @@
+bai1, phat
+C6, qtrN
+F6, eighthN
+E6, eighthN
+D6, eighthN
+C6, eighthN
+A5, qtrN
+A5, eighthN
