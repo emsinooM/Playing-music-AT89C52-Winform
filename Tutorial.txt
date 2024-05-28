@@ -1,0 +1,13 @@
+* Code C#
+	- Sửa lại đường dẫn để chương trình hoạt động đúng
+		+ Dòng 242: Nên tìm xem script python nằm ở đâu. 
+			Vào cmd -> nhập python (để chuyển sang python) -> import sys -> print(sys.executable) -> Copy đường dẫn vào dòng 242.
+		+ Dòng 243: Đổi thành đường dẫn có chứa file music.py.
+	- File âm nhạc được chọn trong thư mục Nhac. Ta cũng có một số file nhạc có sẵn trong combobox.
+* Code python
+	- Dòng 58: Đổi thành đường dẫn có chứa file notes_Music.txt
+
+* Mô phỏng:
+	- Chạy Proteus.
+	- Download Phần mềm Virtual Serial Port để chạy COM ảo.	
+	- Từ giao diện C#, mở cổng COM ảo để giao tiếp với Proteus, rồi chạy file.
